@@ -1,0 +1,13 @@
+132.0.0.20	reverse toilet	1	3
+13.24.23.9	double leg	2	3
+10.5.4.0	delete store 1,2	3	4	
+12.3.2.4	encrypt hospital	4	2	
+123.2.2.4	decrypt loiter	5	1	
+132.0.0.20	replace dog 1-s,2-p	6	3	
+13.24.23.9	double kendrick	7	3	
+10.5.4.0	reverse eminem	8	4
+132.0.0.20	encrypt tommy	9	3
+13.24.23.9	decrypt her	10	3
+10.5.4.0	delete brush	11	4
+12.3.2.4	reverse hommie	12	2
+10.5.4.0	double sara	13	4

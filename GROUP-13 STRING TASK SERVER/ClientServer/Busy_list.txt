@@ -1,0 +1,4 @@
+127.0.0.1:5555	encrypt	mew	2	4
+127.0.0.1:5556	double cat	5	6
+127.0.0.1:5553	decrypt dog	6	7
+127.0.0.1:5551	reverse hen	7	10
